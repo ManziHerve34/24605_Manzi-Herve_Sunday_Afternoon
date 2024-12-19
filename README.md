@@ -1,5 +1,3 @@
-# 24605_Manzi-Herve_Sunday_Afternoon 
-
 In this assignment, I have demonstrated the practical usage of exceptions and exception handling
 in general. 
 
